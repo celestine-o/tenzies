@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Main from './main'
+import Main from './Main'
 
 function App() {
 
